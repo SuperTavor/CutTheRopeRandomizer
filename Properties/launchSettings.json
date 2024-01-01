@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CutTheRopeRandomizer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\yehon\\Downloads\\CutTheRope_Steam\\content\\maps"
+    }
+  }
+}
